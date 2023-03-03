@@ -1,6 +1,9 @@
 ### Hi there! 👋
 
+I'm Mateusz. ASP.NET Core evangelist. Microseservice Enthusiast.
+
 -[LinkedIn](https://www.linkedin.com/in/mateusz-franke-bb8aa4101/)
 
-<p>proffesional skills</p>
-c# / .NET 
+<b>proffesional skills</b>
+<hr>
+c# / .NET  

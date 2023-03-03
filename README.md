@@ -1,3 +1,6 @@
 ### Hi there! 👋
-Hello, I'm Mateusz Franke.
-- [LinkedIn](https://www.linkedin.com/in/mateusz-franke-bb8aa4101/)
+
+-[LinkedIn](https://www.linkedin.com/in/mateusz-franke-bb8aa4101/)
+
+<p>proffesional skills</p>
+c# / .NET 

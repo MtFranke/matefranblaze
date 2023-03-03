@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Mateusz. ASP.NET Core evangelist. Microseservice Enthusiast.
+I'm Mateusz. ASP.NET Core evangelist. Microseservice enthusiast.
 
 -[LinkedIn](https://www.linkedin.com/in/mateusz-franke-bb8aa4101/)
 
